@@ -882,5 +882,22 @@
     "leads_count": 77,
     "leads_cost": 5.58,
     "conversion_rate": 0.477
+  },
+  {
+    "week": "KW37",
+    "iso_year": 2026,
+    "date_start": "2026-09-07",
+    "date_stop": "2026-09-13",
+    "spend": 462.9,
+    "link_clicks": 1360,
+    "cpc": 0.34,
+    "ctr": 4.01,
+    "impressions": 33919,
+    "cpm": 13.65,
+    "primary_count": 13,
+    "primary_cost": 35.61,
+    "leads_count": 68,
+    "leads_cost": 6.81,
+    "conversion_rate": 0.956
   }
 ]
