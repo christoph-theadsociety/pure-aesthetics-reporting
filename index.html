@@ -150,6 +150,21 @@
   .empty-row td{ text-align:center; color:var(--ink-muted); padding:24px 8px; font:13px var(--font-body); }
 
   .footer-logo{ height:22px; width:auto; display:block; }
+
+  /* ---------- campaign section ---------- */
+  .section-heading{ display:flex; align-items:center; justify-content:space-between; gap:12px; flex-wrap:wrap; margin:0 0 16px; }
+  .section-title{ font:800 15px/1.2 var(--font-display); letter-spacing:-.01em; text-transform:uppercase; margin:0; color:var(--ink); }
+  .campaign-picker{ display:flex; align-items:center; gap:8px; }
+  .campaign-select{
+    font:700 12px/1 var(--font-body); color:var(--ink);
+    background:var(--surface); border:1px solid var(--border); border-radius:999px;
+    padding:8px 30px 8px 14px; cursor:pointer; appearance:none; -webkit-appearance:none; -moz-appearance:none;
+    background-image:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='10' height='6'%3E%3Cpath d='M1 1l4 4 4-4' stroke='%230f0f0f' stroke-width='1.5' fill='none' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");
+    background-repeat:no-repeat; background-position:right 12px center;
+    max-width:260px; text-overflow:ellipsis;
+  }
+  .campaign-select:hover{ background-color:var(--surface-2); }
+  .view-toggle-center{ display:flex; justify-content:center; gap:8px; margin-top:18px; padding-top:14px; }
 </style>
 </head>
 <body>
@@ -221,6 +236,68 @@
     </div>
     <p class="attribution-note" id="attributionNote"></p>
   </section>
+
+  <section class="panel">
+    <div class="section-heading">
+      <h2 class="section-title">Kampagnen-Performance</h2>
+      <div class="campaign-picker">
+        <span class="period-label">Kampagne</span>
+        <select class="campaign-select" id="campaignSelect"></select>
+      </div>
+    </div>
+
+    <div id="campaignWeeklyView">
+      <div class="period-row">
+        <span class="period-label">Zeitraum</span>
+        <div class="start-picker">
+          <button type="button" class="start-btn" id="campaignStartBtn" aria-haspopup="true" aria-expanded="false">
+            <span id="campaignStartBtnValue">&hellip;</span>
+            <span class="chevron">▾</span>
+          </button>
+          <div class="calendar-pop" id="campaignCalendarPop" hidden>
+            <div class="week-list" id="campaignWeekList"></div>
+          </div>
+        </div>
+        <button type="button" class="start-btn" id="campaignCurrentPeriodBtn">Aktueller Zeitraum</button>
+      </div>
+      <div class="table-scroll">
+        <table id="campaignReportTable">
+          <colgroup id="campaignColGroup"></colgroup>
+          <thead><tr id="campaignHeadRow"></tr></thead>
+          <tbody id="campaignBodyRows"></tbody>
+        </table>
+      </div>
+    </div>
+
+    <div id="campaignMonthlyView" hidden>
+      <div class="period-row">
+        <span class="period-label">Zeitraum</span>
+        <div class="start-picker">
+          <button type="button" class="start-btn" id="campaignMonthStartBtn" aria-haspopup="true" aria-expanded="false">
+            <span id="campaignMonthStartBtnValue">&hellip;</span>
+            <span class="chevron">▾</span>
+          </button>
+          <div class="calendar-pop" id="campaignMonthCalendarPop" hidden>
+            <div class="week-list" id="campaignMonthList"></div>
+          </div>
+        </div>
+        <button type="button" class="start-btn" id="campaignMonthCurrentPeriodBtn">Aktueller Zeitraum</button>
+      </div>
+      <div class="table-scroll">
+        <table id="campaignMonthlyTable">
+          <colgroup id="campaignMonthlyColGroup"></colgroup>
+          <thead><tr id="campaignMonthlyHeadRow"></tr></thead>
+          <tbody id="campaignMonthlyBodyRows"></tbody>
+        </table>
+      </div>
+    </div>
+
+    <div class="view-toggle-center">
+      <button type="button" class="toggle-btn is-active" id="campaignViewWeeklyBtn">Wöchentlich</button>
+      <button type="button" class="toggle-btn" id="campaignViewMonthlyBtn">Monatlich</button>
+    </div>
+  </section>
+
 
 </div>
 
@@ -762,6 +839,274 @@
     viewMonthlyBtn.classList.add("is-active");
     renderTable(MONTHLY_REFS, sortedMonths(), monthLabel);
     viewWeeklyBtn.classList.remove("is-active");
+  });
+
+  // ---- campaign performance section ----
+  // Reuses the same date-range picker mechanics as the main table above
+  // (weekMondays/monthStarts, maxSelectableMonday/maxSelectableMonth,
+  // formatBtnLabel/formatMonthBtnLabel, etc. are all already in scope),
+  // just wrapped as reusable factories since this page now needs two more
+  // independent picker instances filtered by the selected campaign.
+
+  function createWeeklyPeriodPicker(ids, getAllPeriods, onApply){
+    var btn = document.getElementById(ids.btn);
+    var btnValue = document.getElementById(ids.btnValue);
+    var pop = document.getElementById(ids.pop);
+    var listEl = document.getElementById(ids.list);
+    var currentBtn = document.getElementById(ids.currentBtn);
+
+    var selected = new Date(maxSelectableMonday);
+    selected.setUTCDate(selected.getUTCDate() - WEEKS_WINDOW * 7);
+
+    function clearInRange(){
+      var el = listEl.querySelector(".in-range");
+      while (el){ el.classList.remove("in-range"); el = listEl.querySelector(".in-range"); }
+    }
+    function renderList(){
+      var selectedStr = isoDateStr(selected);
+      var selectedIndex = weekMondays.findIndex(function(d){ return isoDateStr(d) === selectedStr; });
+      var html = "";
+      weekMondays.forEach(function(monday, idx){
+        var iso = isoWeekOfDate(monday);
+        var end = new Date(monday); end.setUTCDate(monday.getUTCDate() + 6);
+        var isActive = selectedIndex !== -1 && idx >= selectedIndex && idx < selectedIndex + WEEKS_WINDOW;
+        html += '<div class="week-row' + (isActive ? " is-active" : "") + '" data-index="' + idx + '" data-monday="' + isoDateStr(monday) + '">'
+          + '<span class="kw">KW' + String(iso.week).padStart(2, "0") + ' ' + iso.year + '</span>'
+          + '<span class="range">' + fmtDate(isoDateStr(monday)) + '–' + fmtDate(isoDateStr(end)) + '</span>'
+          + '</div>';
+      });
+      listEl.innerHTML = html;
+    }
+    function open(){
+      renderList();
+      pop.hidden = false;
+      btn.setAttribute("aria-expanded", "true");
+      var activeEl = listEl.querySelector(".is-active");
+      if (activeEl) activeEl.scrollIntoView({ block: "center" });
+    }
+    function close(){
+      pop.hidden = true;
+      btn.setAttribute("aria-expanded", "false");
+    }
+    btn.addEventListener("click", function(e){
+      e.stopPropagation();
+      if (pop.hidden) open(); else close();
+    });
+    listEl.addEventListener("mouseover", function(e){
+      var row = e.target.closest(".week-row");
+      if (!row) return;
+      var idx = parseInt(row.getAttribute("data-index"), 10);
+      clearInRange();
+      var rows = listEl.children;
+      for (var k = idx; k < Math.min(idx + WEEKS_WINDOW, rows.length); k++){
+        rows[k].classList.add("in-range");
+      }
+    });
+    listEl.addEventListener("mouseleave", clearInRange);
+    listEl.addEventListener("click", function(e){
+      var row = e.target.closest(".week-row");
+      if (!row) return;
+      selected = new Date(row.getAttribute("data-monday") + "T00:00:00Z");
+      btnValue.textContent = formatBtnLabel(selected);
+      close();
+      apply();
+    });
+    document.addEventListener("click", function(e){
+      if (!pop.hidden && e.target !== btn && !btn.contains(e.target) && !pop.contains(e.target)) close();
+    });
+    document.addEventListener("keydown", function(e){
+      if (e.key === "Escape") close();
+    });
+
+    function apply(){
+      var toMonday = new Date(selected);
+      toMonday.setUTCDate(selected.getUTCDate() + (WEEKS_WINDOW - 1) * 7);
+      var fromDate = isoDateStr(selected);
+      var toDate = isoDateStr(toMonday);
+      var periods = getAllPeriods().filter(function(p){
+        return p.date_start >= fromDate && p.date_start <= toDate;
+      });
+      onApply(periods);
+    }
+
+    currentBtn.addEventListener("click", function(){
+      var endMonday = new Date(maxSelectableMonday);
+      endMonday.setUTCDate(endMonday.getUTCDate() - 7);
+      var startMonday = new Date(endMonday);
+      startMonday.setUTCDate(startMonday.getUTCDate() - (WEEKS_WINDOW - 1) * 7);
+      selected = startMonday;
+      btnValue.textContent = formatBtnLabel(selected);
+      close();
+      apply();
+    });
+
+    btnValue.textContent = formatBtnLabel(selected);
+    return { apply: apply };
+  }
+
+  function createMonthlyPeriodPicker(ids, getAllPeriods, onApply){
+    var btn = document.getElementById(ids.btn);
+    var btnValue = document.getElementById(ids.btnValue);
+    var pop = document.getElementById(ids.pop);
+    var listEl = document.getElementById(ids.list);
+    var currentBtn = document.getElementById(ids.currentBtn);
+
+    var selected = addMonths(maxSelectableMonth.year, maxSelectableMonth.month, -MONTHS_WINDOW);
+
+    function clearInRange(){
+      var el = listEl.querySelector(".in-range");
+      while (el){ el.classList.remove("in-range"); el = listEl.querySelector(".in-range"); }
+    }
+    function renderList(){
+      var selectedKey = monthKey(selected.year, selected.month);
+      var selectedIndex = monthStarts.findIndex(function(ym){ return monthKey(ym.year, ym.month) === selectedKey; });
+      var html = "";
+      monthStarts.forEach(function(ym, idx){
+        var isActive = selectedIndex !== -1 && idx >= selectedIndex && idx < selectedIndex + MONTHS_WINDOW;
+        html += '<div class="week-row' + (isActive ? " is-active" : "") + '" data-index="' + idx + '" data-year="' + ym.year + '" data-month="' + ym.month + '">'
+          + '<span class="kw">' + MONTH_NAMES_FULL[ym.month] + ' ' + ym.year + '</span>'
+          + '</div>';
+      });
+      listEl.innerHTML = html;
+    }
+    function open(){
+      renderList();
+      pop.hidden = false;
+      btn.setAttribute("aria-expanded", "true");
+      var activeEl = listEl.querySelector(".is-active");
+      if (activeEl) activeEl.scrollIntoView({ block: "center" });
+    }
+    function close(){
+      pop.hidden = true;
+      btn.setAttribute("aria-expanded", "false");
+    }
+    btn.addEventListener("click", function(e){
+      e.stopPropagation();
+      if (pop.hidden) open(); else close();
+    });
+    listEl.addEventListener("mouseover", function(e){
+      var row = e.target.closest(".week-row");
+      if (!row) return;
+      var idx = parseInt(row.getAttribute("data-index"), 10);
+      clearInRange();
+      var rows = listEl.children;
+      for (var k = idx; k < Math.min(idx + MONTHS_WINDOW, rows.length); k++){
+        rows[k].classList.add("in-range");
+      }
+    });
+    listEl.addEventListener("mouseleave", clearInRange);
+    listEl.addEventListener("click", function(e){
+      var row = e.target.closest(".week-row");
+      if (!row) return;
+      selected = { year: parseInt(row.getAttribute("data-year"), 10), month: parseInt(row.getAttribute("data-month"), 10) };
+      btnValue.textContent = formatMonthBtnLabel(selected);
+      close();
+      apply();
+    });
+    document.addEventListener("click", function(e){
+      if (!pop.hidden && e.target !== btn && !btn.contains(e.target) && !pop.contains(e.target)) close();
+    });
+    document.addEventListener("keydown", function(e){
+      if (e.key === "Escape") close();
+    });
+
+    function apply(){
+      var toYM = addMonths(selected.year, selected.month, MONTHS_WINDOW - 1);
+      var fromDate = monthDateStr(selected.year, selected.month);
+      var toDate = monthDateStr(toYM.year, toYM.month);
+      var periods = getAllPeriods().filter(function(p){
+        return p.date_start >= fromDate && p.date_start <= toDate;
+      });
+      onApply(periods);
+    }
+
+    currentBtn.addEventListener("click", function(){
+      var lastCompleted = addMonths(maxSelectableMonth.year, maxSelectableMonth.month, -1);
+      selected = addMonths(lastCompleted.year, lastCompleted.month, -(MONTHS_WINDOW - 1));
+      btnValue.textContent = formatMonthBtnLabel(selected);
+      close();
+      apply();
+    });
+
+    btnValue.textContent = formatMonthBtnLabel(selected);
+    return { apply: apply };
+  }
+
+  var CAMPAIGN_WEEKLY_REFS = { table:"campaignReportTable", colGroup:"campaignColGroup", headRow:"campaignHeadRow", bodyRows:"campaignBodyRows" };
+  var CAMPAIGN_MONTHLY_REFS = { table:"campaignMonthlyTable", colGroup:"campaignMonthlyColGroup", headRow:"campaignMonthlyHeadRow", bodyRows:"campaignMonthlyBodyRows" };
+
+  var CAMPAIGN_DATA = { weeks: [], months: [] };
+  var selectedCampaignId = null;
+  function campaignWeeksFor(id){ return CAMPAIGN_DATA.weeks.filter(function(w){ return w.campaign_id === id; }); }
+  function campaignMonthsFor(id){ return CAMPAIGN_DATA.months.filter(function(m){ return m.campaign_id === id; }); }
+
+  var campaignWeeklyPicker = createWeeklyPeriodPicker(
+    { btn:"campaignStartBtn", btnValue:"campaignStartBtnValue", pop:"campaignCalendarPop", list:"campaignWeekList", currentBtn:"campaignCurrentPeriodBtn" },
+    function(){ return selectedCampaignId ? campaignWeeksFor(selectedCampaignId) : []; },
+    function(periods){ renderTable(CAMPAIGN_WEEKLY_REFS, periods, weekLabel); }
+  );
+  var campaignMonthlyPicker = createMonthlyPeriodPicker(
+    { btn:"campaignMonthStartBtn", btnValue:"campaignMonthStartBtnValue", pop:"campaignMonthCalendarPop", list:"campaignMonthList", currentBtn:"campaignMonthCurrentPeriodBtn" },
+    function(){ return selectedCampaignId ? campaignMonthsFor(selectedCampaignId) : []; },
+    function(periods){ renderTable(CAMPAIGN_MONTHLY_REFS, periods, monthLabel); }
+  );
+  campaignWeeklyPicker.apply();
+  campaignMonthlyPicker.apply();
+
+  var campaignSelectEl = document.getElementById("campaignSelect");
+  campaignSelectEl.addEventListener("change", function(){
+    selectedCampaignId = campaignSelectEl.value;
+    campaignWeeklyPicker.apply();
+    campaignMonthlyPicker.apply();
+  });
+
+  fetch("data/campaigns.json").then(function(r){ return r.ok ? r.json() : null; }).catch(function(){ return null; })
+    .then(function(data){
+      if (!data) return;
+      CAMPAIGN_DATA.weeks = data.weeks || [];
+      CAMPAIGN_DATA.months = data.months || [];
+
+      var totalSpend = {}, nameFor = {};
+      CAMPAIGN_DATA.weeks.forEach(function(w){
+        totalSpend[w.campaign_id] = (totalSpend[w.campaign_id] || 0) + (w.spend || 0);
+        nameFor[w.campaign_id] = w.campaign_name;
+      });
+      var campaignList = Object.keys(totalSpend)
+        .sort(function(a, b){ return totalSpend[b] - totalSpend[a]; })
+        .map(function(id){ return { id: id, name: nameFor[id] }; });
+
+      campaignSelectEl.innerHTML = campaignList.map(function(c){
+        return '<option value="' + c.id + '">' + c.name + '</option>';
+      }).join("");
+
+      if (campaignList.length){
+        selectedCampaignId = campaignList[0].id;
+        campaignSelectEl.value = selectedCampaignId;
+      }
+
+      campaignWeeklyPicker.apply();
+      campaignMonthlyPicker.apply();
+    });
+
+  // ---- campaign weekly / monthly view toggle ----
+  var campaignWeeklyView = document.getElementById("campaignWeeklyView");
+  var campaignMonthlyView = document.getElementById("campaignMonthlyView");
+  var campaignViewWeeklyBtn = document.getElementById("campaignViewWeeklyBtn");
+  var campaignViewMonthlyBtn = document.getElementById("campaignViewMonthlyBtn");
+
+  campaignViewWeeklyBtn.addEventListener("click", function(){
+    campaignWeeklyView.hidden = false;
+    campaignMonthlyView.hidden = true;
+    campaignViewWeeklyBtn.classList.add("is-active");
+    campaignViewMonthlyBtn.classList.remove("is-active");
+    campaignWeeklyPicker.apply();
+  });
+  campaignViewMonthlyBtn.addEventListener("click", function(){
+    campaignWeeklyView.hidden = true;
+    campaignMonthlyView.hidden = false;
+    campaignViewMonthlyBtn.classList.add("is-active");
+    campaignViewWeeklyBtn.classList.remove("is-active");
+    campaignMonthlyPicker.apply();
   });
 })();
 </script>
