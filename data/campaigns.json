@@ -13,10 +13,10 @@
       "cpm": 11.69,
       "campaign_id": "120215866846780032",
       "campaign_name": "CS_Brustvergrößerungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 19,
+      "leads_cost": 7.39,
       "conversion_rate": 0.0
     },
     {
@@ -32,10 +32,10 @@
       "cpm": 22.4,
       "campaign_id": "120220482966460032",
       "campaign_name": "CS_Gesichtsbehandlungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 33,
+      "leads_cost": 4.22,
       "conversion_rate": 0.0
     },
     {
@@ -51,10 +51,10 @@
       "cpm": 11.76,
       "campaign_id": "120231788897160032",
       "campaign_name": "CS_Körperformungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 58,
+      "leads_cost": 5.82,
       "conversion_rate": 0.0
     },
     {
@@ -70,10 +70,10 @@
       "cpm": 10.76,
       "campaign_id": "120215866846780032",
       "campaign_name": "CS_Brustvergrößerungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 26,
+      "leads_cost": 5.4,
       "conversion_rate": 0.0
     },
     {
@@ -89,10 +89,10 @@
       "cpm": 20.77,
       "campaign_id": "120220482966460032",
       "campaign_name": "CS_Gesichtsbehandlungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 17,
+      "leads_cost": 8.2,
       "conversion_rate": 0.0
     },
     {
@@ -108,10 +108,10 @@
       "cpm": 9.82,
       "campaign_id": "120231788897160032",
       "campaign_name": "CS_Körperformungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 57,
+      "leads_cost": 7.47,
       "conversion_rate": 0.0
     },
     {
@@ -127,10 +127,10 @@
       "cpm": 11.74,
       "campaign_id": "120215866846780032",
       "campaign_name": "CS_Brustvergrößerungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 30,
+      "leads_cost": 4.63,
       "conversion_rate": 0.0
     },
     {
@@ -146,10 +146,10 @@
       "cpm": 21.82,
       "campaign_id": "120220482966460032",
       "campaign_name": "CS_Gesichtsbehandlungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 38,
+      "leads_cost": 3.63,
       "conversion_rate": 0.0
     },
     {
@@ -165,10 +165,10 @@
       "cpm": 8.85,
       "campaign_id": "120231788897160032",
       "campaign_name": "CS_Körperformungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 44,
+      "leads_cost": 9.48,
       "conversion_rate": 0.0
     },
     {
@@ -184,10 +184,10 @@
       "cpm": 10.84,
       "campaign_id": "120215866846780032",
       "campaign_name": "CS_Brustvergrößerungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 35,
+      "leads_cost": 7.95,
       "conversion_rate": 0.0
     },
     {
@@ -203,10 +203,10 @@
       "cpm": 20.75,
       "campaign_id": "120220482966460032",
       "campaign_name": "CS_Gesichtsbehandlungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 39,
+      "leads_cost": 3.62,
       "conversion_rate": 0.0
     },
     {
@@ -222,10 +222,10 @@
       "cpm": 8.58,
       "campaign_id": "120231788897160032",
       "campaign_name": "CS_Körperformungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 38,
+      "leads_cost": 11.1,
       "conversion_rate": 0.0
     },
     {
@@ -241,10 +241,10 @@
       "cpm": 10.81,
       "campaign_id": "120215866846780032",
       "campaign_name": "CS_Brustvergrößerungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 51,
+      "leads_cost": 8.32,
       "conversion_rate": 0.0
     },
     {
@@ -260,10 +260,10 @@
       "cpm": 20.47,
       "campaign_id": "120220482966460032",
       "campaign_name": "CS_Gesichtsbehandlungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 25,
+      "leads_cost": 5.71,
       "conversion_rate": 0.0
     },
     {
@@ -279,10 +279,10 @@
       "cpm": 11.29,
       "campaign_id": "120231788897160032",
       "campaign_name": "CS_Körperformungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 36,
+      "leads_cost": 11.73,
       "conversion_rate": 0.0
     },
     {
@@ -298,10 +298,10 @@
       "cpm": 11.12,
       "campaign_id": "120215866846780032",
       "campaign_name": "CS_Brustvergrößerungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 25,
+      "leads_cost": 8.59,
       "conversion_rate": 0.0
     },
     {
@@ -317,10 +317,10 @@
       "cpm": 19.47,
       "campaign_id": "120220482966460032",
       "campaign_name": "CS_Gesichtsbehandlungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 31,
+      "leads_cost": 4.46,
       "conversion_rate": 0.0
     },
     {
@@ -336,10 +336,10 @@
       "cpm": 10.06,
       "campaign_id": "120231788897160032",
       "campaign_name": "CS_Körperformungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 40,
+      "leads_cost": 10.39,
       "conversion_rate": 0.0
     },
     {
@@ -355,10 +355,10 @@
       "cpm": 10.82,
       "campaign_id": "120215866846780032",
       "campaign_name": "CS_Brustvergrößerungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 40,
+      "leads_cost": 9.56,
       "conversion_rate": 0.0
     },
     {
@@ -374,10 +374,10 @@
       "cpm": 19.83,
       "campaign_id": "120220482966460032",
       "campaign_name": "CS_Gesichtsbehandlungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 31,
+      "leads_cost": 6.31,
       "conversion_rate": 0.0
     },
     {
@@ -393,10 +393,10 @@
       "cpm": 10.68,
       "campaign_id": "120231788897160032",
       "campaign_name": "CS_Körperformungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 31,
+      "leads_cost": 9.83,
       "conversion_rate": 0.0
     },
     {
@@ -412,10 +412,10 @@
       "cpm": 9.54,
       "campaign_id": "120215866846780032",
       "campaign_name": "CS_Brustvergrößerungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 36,
+      "leads_cost": 11.62,
       "conversion_rate": 0.0
     },
     {
@@ -431,10 +431,10 @@
       "cpm": 20.13,
       "campaign_id": "120220482966460032",
       "campaign_name": "CS_Gesichtsbehandlungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 42,
+      "leads_cost": 5.01,
       "conversion_rate": 0.0
     },
     {
@@ -450,10 +450,10 @@
       "cpm": 9.24,
       "campaign_id": "120231788897160032",
       "campaign_name": "CS_Körperformungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 31,
+      "leads_cost": 8.97,
       "conversion_rate": 0.0
     },
     {
@@ -469,10 +469,10 @@
       "cpm": 11.71,
       "campaign_id": "120215866846780032",
       "campaign_name": "CS_Brustvergrößerungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 32,
+      "leads_cost": 13.22,
       "conversion_rate": 0.0
     },
     {
@@ -488,10 +488,10 @@
       "cpm": 22.37,
       "campaign_id": "120220482966460032",
       "campaign_name": "CS_Gesichtsbehandlungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 45,
+      "leads_cost": 4.71,
       "conversion_rate": 0.0
     },
     {
@@ -507,10 +507,10 @@
       "cpm": 10.13,
       "campaign_id": "120231788897160032",
       "campaign_name": "CS_Körperformungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 25,
+      "leads_cost": 11.26,
       "conversion_rate": 0.0
     },
     {
@@ -526,10 +526,10 @@
       "cpm": 13.3,
       "campaign_id": "120215866846780032",
       "campaign_name": "CS_Brustvergrößerungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 35,
+      "leads_cost": 12.04,
       "conversion_rate": 0.0
     },
     {
@@ -545,10 +545,10 @@
       "cpm": 25.06,
       "campaign_id": "120220482966460032",
       "campaign_name": "CS_Gesichtsbehandlungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 37,
+      "leads_cost": 4.16,
       "conversion_rate": 0.0
     },
     {
@@ -564,10 +564,10 @@
       "cpm": 10.91,
       "campaign_id": "120231788897160032",
       "campaign_name": "CS_Körperformungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 32,
+      "leads_cost": 8.78,
       "conversion_rate": 0.0
     },
     {
@@ -583,10 +583,10 @@
       "cpm": 14.24,
       "campaign_id": "120215866846780032",
       "campaign_name": "CS_Brustvergrößerungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 32,
+      "leads_cost": 9.97,
       "conversion_rate": 0.0
     },
     {
@@ -602,10 +602,10 @@
       "cpm": 27.26,
       "campaign_id": "120220482966460032",
       "campaign_name": "CS_Gesichtsbehandlungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 19,
+      "leads_cost": 7.05,
       "conversion_rate": 0.0
     },
     {
@@ -621,10 +621,10 @@
       "cpm": 11.52,
       "campaign_id": "120231788897160032",
       "campaign_name": "CS_Körperformungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 10,
+      "leads_cost": 27.53,
       "conversion_rate": 0.0
     },
     {
@@ -640,10 +640,10 @@
       "cpm": 11.59,
       "campaign_id": "120235381942950032",
       "campaign_name": "CS_MommyMakeover_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 43,
+      "leads_cost": 6.07,
       "conversion_rate": 0.0
     },
     {
@@ -659,10 +659,10 @@
       "cpm": 16.19,
       "campaign_id": "120215866846780032",
       "campaign_name": "CS_Brustvergrößerungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 27,
+      "leads_cost": 10.38,
       "conversion_rate": 0.0
     },
     {
@@ -678,10 +678,10 @@
       "cpm": 27.88,
       "campaign_id": "120220482966460032",
       "campaign_name": "CS_Gesichtsbehandlungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 3,
+      "leads_cost": 27.22,
       "conversion_rate": 0.0
     },
     {
@@ -697,10 +697,10 @@
       "cpm": 14.05,
       "campaign_id": "120231788897160032",
       "campaign_name": "CS_Körperformungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 23,
+      "leads_cost": 11.75,
       "conversion_rate": 0.0
     },
     {
@@ -716,10 +716,10 @@
       "cpm": 10.97,
       "campaign_id": "120235381942950032",
       "campaign_name": "CS_MommyMakeover_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 26,
+      "leads_cost": 10.79,
       "conversion_rate": 0.0
     },
     {
@@ -735,10 +735,10 @@
       "cpm": 13.24,
       "campaign_id": "120215866846780032",
       "campaign_name": "CS_Brustvergrößerungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 26,
+      "leads_cost": 10.96,
       "conversion_rate": 0.0
     },
     {
@@ -754,10 +754,10 @@
       "cpm": 23.8,
       "campaign_id": "120220482966460032",
       "campaign_name": "CS_Gesichtsbehandlungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 15,
+      "leads_cost": 10.04,
       "conversion_rate": 0.0
     },
     {
@@ -773,10 +773,10 @@
       "cpm": 13.56,
       "campaign_id": "120231788897160032",
       "campaign_name": "CS_Körperformungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 19,
+      "leads_cost": 14.39,
       "conversion_rate": 0.0
     },
     {
@@ -792,10 +792,10 @@
       "cpm": 10.41,
       "campaign_id": "120235381942950032",
       "campaign_name": "CS_MommyMakeover_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 18,
+      "leads_cost": 15.67,
       "conversion_rate": 0.0
     },
     {
@@ -811,10 +811,10 @@
       "cpm": 13.01,
       "campaign_id": "120215866846780032",
       "campaign_name": "CS_Brustvergrößerungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 36,
+      "leads_cost": 7.63,
       "conversion_rate": 0.0
     },
     {
@@ -830,10 +830,10 @@
       "cpm": 20.51,
       "campaign_id": "120220482966460032",
       "campaign_name": "CS_Gesichtsbehandlungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 13,
+      "leads_cost": 3.87,
       "conversion_rate": 0.0
     },
     {
@@ -849,10 +849,10 @@
       "cpm": 16.13,
       "campaign_id": "120231788897160032",
       "campaign_name": "CS_Körperformungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 31,
+      "leads_cost": 13.18,
       "conversion_rate": 0.0
     },
     {
@@ -868,10 +868,10 @@
       "cpm": 10.96,
       "campaign_id": "120235381942950032",
       "campaign_name": "CS_MommyMakeover_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 19,
+      "leads_cost": 14.72,
       "conversion_rate": 0.0
     },
     {
@@ -887,10 +887,10 @@
       "cpm": 12.46,
       "campaign_id": "120215866846780032",
       "campaign_name": "CS_Brustvergrößerungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 7,
-      "cost_per_purchase": 39.44,
+      "primary_count": 7,
+      "primary_cost": 39.44,
+      "leads_count": 71,
+      "leads_cost": 3.89,
       "conversion_rate": 2.017
     },
     {
@@ -906,10 +906,10 @@
       "cpm": 15.24,
       "campaign_id": "120231788897160032",
       "campaign_name": "CS_Körperformungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 8,
-      "cost_per_purchase": 52.39,
+      "primary_count": 8,
+      "primary_cost": 52.39,
+      "leads_count": 47,
+      "leads_cost": 8.92,
       "conversion_rate": 1.389
     },
     {
@@ -925,10 +925,10 @@
       "cpm": 10.94,
       "campaign_id": "120235381942950032",
       "campaign_name": "CS_MommyMakeover_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 2,
-      "cost_per_purchase": 139.95,
+      "primary_count": 2,
+      "primary_cost": 139.95,
+      "leads_count": 21,
+      "leads_cost": 13.33,
       "conversion_rate": 0.413
     },
     {
@@ -944,10 +944,10 @@
       "cpm": 9.5,
       "campaign_id": "120215866846780032",
       "campaign_name": "CS_Brustvergrößerungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 7,
-      "cost_per_purchase": 40.49,
+      "primary_count": 7,
+      "primary_cost": 40.49,
+      "leads_count": 33,
+      "leads_cost": 8.59,
       "conversion_rate": 2.006
     },
     {
@@ -963,10 +963,10 @@
       "cpm": 11.25,
       "campaign_id": "120231788897160032",
       "campaign_name": "CS_Körperformungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 3,
-      "cost_per_purchase": 139.31,
+      "primary_count": 3,
+      "primary_cost": 139.31,
+      "leads_count": 28,
+      "leads_cost": 14.93,
       "conversion_rate": 0.523
     },
     {
@@ -982,10 +982,10 @@
       "cpm": 8.55,
       "campaign_id": "120235381942950032",
       "campaign_name": "CS_MommyMakeover_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 3,
-      "cost_per_purchase": 93.2,
+      "primary_count": 3,
+      "primary_cost": 93.2,
+      "leads_count": 29,
+      "leads_cost": 9.64,
       "conversion_rate": 0.423
     },
     {
@@ -1001,10 +1001,10 @@
       "cpm": 8.2,
       "campaign_id": "120215866846780032",
       "campaign_name": "CS_Brustvergrößerungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 8,
-      "cost_per_purchase": 34.74,
+      "primary_count": 8,
+      "primary_cost": 34.74,
+      "leads_count": 41,
+      "leads_cost": 6.78,
       "conversion_rate": 2.18
     },
     {
@@ -1020,10 +1020,10 @@
       "cpm": 10.21,
       "campaign_id": "120231788897160032",
       "campaign_name": "CS_Körperformungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 6,
-      "cost_per_purchase": 70.04,
+      "primary_count": 6,
+      "primary_cost": 70.04,
+      "leads_count": 44,
+      "leads_cost": 9.55,
       "conversion_rate": 0.893
     },
     {
@@ -1039,10 +1039,10 @@
       "cpm": 7.28,
       "campaign_id": "120235381942950032",
       "campaign_name": "CS_MommyMakeover_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 3,
-      "cost_per_purchase": 93.11,
+      "primary_count": 3,
+      "primary_cost": 93.11,
+      "leads_count": 37,
+      "leads_cost": 7.55,
       "conversion_rate": 0.303
     },
     {
@@ -1058,10 +1058,10 @@
       "cpm": 9.28,
       "campaign_id": "120215866846780032",
       "campaign_name": "CS_Brustvergrößerungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 7,
-      "cost_per_purchase": 39.92,
+      "primary_count": 7,
+      "primary_cost": 39.92,
+      "leads_count": 36,
+      "leads_cost": 7.76,
       "conversion_rate": 1.754
     },
     {
@@ -1077,10 +1077,10 @@
       "cpm": 11.51,
       "campaign_id": "120231788897160032",
       "campaign_name": "CS_Körperformungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 3,
-      "cost_per_purchase": 140.09,
+      "primary_count": 3,
+      "primary_cost": 140.09,
+      "leads_count": 36,
+      "leads_cost": 11.67,
       "conversion_rate": 0.442
     },
     {
@@ -1096,10 +1096,10 @@
       "cpm": 8.9,
       "campaign_id": "120235381942950032",
       "campaign_name": "CS_MommyMakeover_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 2,
-      "cost_per_purchase": 139.06,
+      "primary_count": 2,
+      "primary_cost": 139.06,
+      "leads_count": 34,
+      "leads_cost": 8.18,
       "conversion_rate": 0.245
     },
     {
@@ -1115,10 +1115,10 @@
       "cpm": 10.32,
       "campaign_id": "120215866846780032",
       "campaign_name": "CS_Brustvergrößerungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 4,
-      "cost_per_purchase": 69.86,
+      "primary_count": 4,
+      "primary_cost": 69.86,
+      "leads_count": 35,
+      "leads_cost": 7.98,
       "conversion_rate": 0.966
     },
     {
@@ -1134,10 +1134,10 @@
       "cpm": 14.64,
       "campaign_id": "120231788897160032",
       "campaign_name": "CS_Körperformungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 5,
-      "cost_per_purchase": 84.08,
+      "primary_count": 5,
+      "primary_cost": 84.08,
+      "leads_count": 34,
+      "leads_cost": 12.37,
       "conversion_rate": 0.816
     },
     {
@@ -1153,10 +1153,10 @@
       "cpm": 9.48,
       "campaign_id": "120235381942950032",
       "campaign_name": "CS_MommyMakeover_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 2,
-      "cost_per_purchase": 140.33,
+      "primary_count": 2,
+      "primary_cost": 140.33,
+      "leads_count": 19,
+      "leads_cost": 14.77,
       "conversion_rate": 0.277
     },
     {
@@ -1172,10 +1172,10 @@
       "cpm": 10.07,
       "campaign_id": "120215866846780032",
       "campaign_name": "CS_Brustvergrößerungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 11,
-      "cost_per_purchase": 25.44,
+      "primary_count": 11,
+      "primary_cost": 25.44,
+      "leads_count": 55,
+      "leads_cost": 5.09,
       "conversion_rate": 2.461
     },
     {
@@ -1191,10 +1191,10 @@
       "cpm": 16.3,
       "campaign_id": "120231788897160032",
       "campaign_name": "CS_Körperformungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 4,
-      "cost_per_purchase": 103.0,
+      "primary_count": 4,
+      "primary_cost": 103.0,
+      "leads_count": 27,
+      "leads_cost": 15.26,
       "conversion_rate": 0.752
     },
     {
@@ -1210,10 +1210,10 @@
       "cpm": 10.41,
       "campaign_id": "120235381942950032",
       "campaign_name": "CS_MommyMakeover_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 2,
-      "cost_per_purchase": 138.31,
+      "primary_count": 2,
+      "primary_cost": 138.31,
+      "leads_count": 44,
+      "leads_cost": 6.29,
       "conversion_rate": 0.27
     },
     {
@@ -1229,10 +1229,10 @@
       "cpm": 10.03,
       "campaign_id": "120215866846780032",
       "campaign_name": "CS_Brustvergrößerungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 13,
-      "cost_per_purchase": 21.58,
+      "primary_count": 13,
+      "primary_cost": 21.58,
+      "leads_count": 60,
+      "leads_cost": 4.67,
       "conversion_rate": 3.171
     },
     {
@@ -1248,10 +1248,10 @@
       "cpm": 16.75,
       "campaign_id": "120231788897160032",
       "campaign_name": "CS_Körperformungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 6,
-      "cost_per_purchase": 70.87,
+      "primary_count": 6,
+      "primary_cost": 70.87,
+      "leads_count": 41,
+      "leads_cost": 10.37,
       "conversion_rate": 1.012
     },
     {
@@ -1267,10 +1267,10 @@
       "cpm": 11.63,
       "campaign_id": "120235381942950032",
       "campaign_name": "CS_MommyMakeover_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 46,
+      "leads_cost": 6.12,
       "conversion_rate": 0.0
     },
     {
@@ -1286,10 +1286,10 @@
       "cpm": 10.33,
       "campaign_id": "120215866846780032",
       "campaign_name": "CS_Brustvergrößerungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 12,
-      "cost_per_purchase": 23.39,
+      "primary_count": 12,
+      "primary_cost": 23.39,
+      "leads_count": 51,
+      "leads_cost": 5.5,
       "conversion_rate": 2.963
     },
     {
@@ -1305,10 +1305,10 @@
       "cpm": 16.86,
       "campaign_id": "120231788897160032",
       "campaign_name": "CS_Körperformungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 3,
-      "cost_per_purchase": 139.91,
+      "primary_count": 3,
+      "primary_cost": 139.91,
+      "leads_count": 38,
+      "leads_cost": 11.05,
       "conversion_rate": 0.468
     },
     {
@@ -1324,10 +1324,10 @@
       "cpm": 13.69,
       "campaign_id": "120235381942950032",
       "campaign_name": "CS_MommyMakeover_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 2,
-      "cost_per_purchase": 139.88,
+      "primary_count": 2,
+      "primary_cost": 139.88,
+      "leads_count": 26,
+      "leads_cost": 10.76,
       "conversion_rate": 0.38
     },
     {
@@ -1343,10 +1343,10 @@
       "cpm": 9.14,
       "campaign_id": "120215866846780032",
       "campaign_name": "CS_Brustvergrößerungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 7,
-      "cost_per_purchase": 39.58,
+      "primary_count": 7,
+      "primary_cost": 39.58,
+      "leads_count": 45,
+      "leads_cost": 6.16,
       "conversion_rate": 1.823
     },
     {
@@ -1362,10 +1362,10 @@
       "cpm": 15.58,
       "campaign_id": "120231788897160032",
       "campaign_name": "CS_Körperformungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 6,
-      "cost_per_purchase": 69.61,
+      "primary_count": 6,
+      "primary_cost": 69.61,
+      "leads_count": 39,
+      "leads_cost": 10.71,
       "conversion_rate": 1.033
     },
     {
@@ -1381,10 +1381,10 @@
       "cpm": 14.67,
       "campaign_id": "120235381942950032",
       "campaign_name": "CS_MommyMakeover_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 25,
+      "leads_cost": 11.19,
       "conversion_rate": 0.0
     },
     {
@@ -1400,10 +1400,10 @@
       "cpm": 9.1,
       "campaign_id": "120215866846780032",
       "campaign_name": "CS_Brustvergrößerungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 4,
-      "cost_per_purchase": 71.36,
+      "primary_count": 4,
+      "primary_cost": 71.36,
+      "leads_count": 41,
+      "leads_cost": 6.96,
       "conversion_rate": 0.939
     },
     {
@@ -1419,10 +1419,10 @@
       "cpm": 14.07,
       "campaign_id": "120231788897160032",
       "campaign_name": "CS_Körperformungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 5,
-      "cost_per_purchase": 84.23,
+      "primary_count": 5,
+      "primary_cost": 84.23,
+      "leads_count": 30,
+      "leads_cost": 14.04,
       "conversion_rate": 0.741
     },
     {
@@ -1438,10 +1438,10 @@
       "cpm": 12.28,
       "campaign_id": "120235381942950032",
       "campaign_name": "CS_MommyMakeover_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 5,
-      "cost_per_purchase": 55.58,
+      "primary_count": 5,
+      "primary_cost": 55.58,
+      "leads_count": 18,
+      "leads_cost": 15.44,
       "conversion_rate": 0.978
     },
     {
@@ -1457,10 +1457,10 @@
       "cpm": 9.7,
       "campaign_id": "120215866846780032",
       "campaign_name": "CS_Brustvergrößerungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 9,
-      "cost_per_purchase": 30.29,
+      "primary_count": 9,
+      "primary_cost": 30.29,
+      "leads_count": 38,
+      "leads_cost": 7.17,
       "conversion_rate": 1.948
     },
     {
@@ -1476,10 +1476,10 @@
       "cpm": 14.4,
       "campaign_id": "120231788897160032",
       "campaign_name": "CS_Körperformungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 2,
-      "cost_per_purchase": 207.56,
+      "primary_count": 2,
+      "primary_cost": 207.56,
+      "leads_count": 27,
+      "leads_cost": 15.38,
       "conversion_rate": 0.307
     },
     {
@@ -1495,10 +1495,10 @@
       "cpm": 12.79,
       "campaign_id": "120235381942950032",
       "campaign_name": "CS_MommyMakeover_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 1,
-      "cost_per_purchase": 283.34,
+      "primary_count": 1,
+      "primary_cost": 283.34,
+      "leads_count": 42,
+      "leads_cost": 6.75,
       "conversion_rate": 0.175
     },
     {
@@ -1514,10 +1514,10 @@
       "cpm": 9.6,
       "campaign_id": "120215866846780032",
       "campaign_name": "CS_Brustvergrößerungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 5,
-      "cost_per_purchase": 56.82,
+      "primary_count": 5,
+      "primary_cost": 56.82,
+      "leads_count": 32,
+      "leads_cost": 8.88,
       "conversion_rate": 1.16
     },
     {
@@ -1533,10 +1533,10 @@
       "cpm": 15.91,
       "campaign_id": "120231788897160032",
       "campaign_name": "CS_Körperformungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 2,
-      "cost_per_purchase": 209.41,
+      "primary_count": 2,
+      "primary_cost": 209.41,
+      "leads_count": 42,
+      "leads_cost": 9.97,
       "conversion_rate": 0.316
     },
     {
@@ -1552,10 +1552,10 @@
       "cpm": 14.04,
       "campaign_id": "120235381942950032",
       "campaign_name": "CS_MommyMakeover_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 2,
-      "cost_per_purchase": 139.79,
+      "primary_count": 2,
+      "primary_cost": 139.79,
+      "leads_count": 34,
+      "leads_cost": 8.22,
       "conversion_rate": 0.355
     },
     {
@@ -1571,10 +1571,10 @@
       "cpm": 10.07,
       "campaign_id": "120215866846780032",
       "campaign_name": "CS_Brustvergrößerungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 5,
-      "cost_per_purchase": 55.63,
+      "primary_count": 5,
+      "primary_cost": 55.63,
+      "leads_count": 33,
+      "leads_cost": 8.43,
       "conversion_rate": 1.214
     },
     {
@@ -1590,10 +1590,10 @@
       "cpm": 16.57,
       "campaign_id": "120231788897160032",
       "campaign_name": "CS_Körperformungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 3,
-      "cost_per_purchase": 168.83,
+      "primary_count": 3,
+      "primary_cost": 168.83,
+      "leads_count": 55,
+      "leads_cost": 9.21,
       "conversion_rate": 0.39
     },
     {
@@ -1609,10 +1609,10 @@
       "cpm": 13.53,
       "campaign_id": "120235381942950032",
       "campaign_name": "CS_MommyMakeover_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 16,
+      "leads_cost": 12.26,
       "conversion_rate": 0.0
     },
     {
@@ -1628,10 +1628,10 @@
       "cpm": 10.94,
       "campaign_id": "120215866846780032",
       "campaign_name": "CS_Brustvergrößerungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 3,
-      "cost_per_purchase": 93.27,
+      "primary_count": 3,
+      "primary_cost": 93.27,
+      "leads_count": 37,
+      "leads_cost": 7.56,
       "conversion_rate": 0.785
     },
     {
@@ -1647,10 +1647,10 @@
       "cpm": 17.55,
       "campaign_id": "120231788897160032",
       "campaign_name": "CS_Körperformungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 8,
-      "cost_per_purchase": 70.93,
+      "primary_count": 8,
+      "primary_cost": 70.93,
+      "leads_count": 48,
+      "leads_cost": 11.82,
       "conversion_rate": 0.996
     },
     {
@@ -1666,10 +1666,10 @@
       "cpm": 11.77,
       "campaign_id": "120235381942950032",
       "campaign_name": "CS_MommyMakeover_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 7,
-      "cost_per_purchase": 38.43,
+      "primary_count": 7,
+      "primary_cost": 38.43,
+      "leads_count": 44,
+      "leads_cost": 6.11,
       "conversion_rate": 1.176
     },
     {
@@ -1685,10 +1685,10 @@
       "cpm": 9.79,
       "campaign_id": "120215866846780032",
       "campaign_name": "CS_Brustvergrößerungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 6,
-      "cost_per_purchase": 46.41,
+      "primary_count": 6,
+      "primary_cost": 46.41,
+      "leads_count": 38,
+      "leads_cost": 7.33,
       "conversion_rate": 1.255
     },
     {
@@ -1704,10 +1704,10 @@
       "cpm": 16.53,
       "campaign_id": "120231788897160032",
       "campaign_name": "CS_Körperformungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 4,
-      "cost_per_purchase": 137.8,
+      "primary_count": 4,
+      "primary_cost": 137.8,
+      "leads_count": 67,
+      "leads_cost": 8.23,
       "conversion_rate": 0.473
     },
     {
@@ -1723,10 +1723,10 @@
       "cpm": 10.11,
       "campaign_id": "120235381942950032",
       "campaign_name": "CS_MommyMakeover_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 4,
-      "cost_per_purchase": 69.75,
+      "primary_count": 4,
+      "primary_cost": 69.75,
+      "leads_count": 45,
+      "leads_cost": 6.2,
       "conversion_rate": 0.614
     },
     {
@@ -1742,10 +1742,10 @@
       "cpm": 10.64,
       "campaign_id": "120215866846780032",
       "campaign_name": "CS_Brustvergrößerungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 9,
-      "cost_per_purchase": 31.38,
+      "primary_count": 9,
+      "primary_cost": 31.38,
+      "leads_count": 41,
+      "leads_cost": 6.89,
       "conversion_rate": 2.128
     },
     {
@@ -1761,10 +1761,10 @@
       "cpm": 16.9,
       "campaign_id": "120231788897160032",
       "campaign_name": "CS_Körperformungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 5,
-      "cost_per_purchase": 101.1,
+      "primary_count": 5,
+      "primary_cost": 101.1,
+      "leads_count": 31,
+      "leads_cost": 16.31,
       "conversion_rate": 0.739
     },
     {
@@ -1780,10 +1780,10 @@
       "cpm": 10.38,
       "campaign_id": "120235381942950032",
       "campaign_name": "CS_MommyMakeover_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 1,
-      "cost_per_purchase": 280.58,
+      "primary_count": 1,
+      "primary_cost": 280.58,
+      "leads_count": 45,
+      "leads_cost": 6.24,
       "conversion_rate": 0.175
     },
     {
@@ -1799,10 +1799,10 @@
       "cpm": 9.52,
       "campaign_id": "120215866846780032",
       "campaign_name": "CS_Brustvergrößerungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 5,
-      "cost_per_purchase": 56.01,
+      "primary_count": 5,
+      "primary_cost": 56.01,
+      "leads_count": 32,
+      "leads_cost": 8.75,
       "conversion_rate": 1.149
     },
     {
@@ -1818,10 +1818,10 @@
       "cpm": 15.05,
       "campaign_id": "120231788897160032",
       "campaign_name": "CS_Körperformungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 1,
-      "cost_per_purchase": 488.01,
+      "primary_count": 1,
+      "primary_cost": 488.01,
+      "leads_count": 36,
+      "leads_cost": 13.56,
       "conversion_rate": 0.135
     },
     {
@@ -1837,10 +1837,10 @@
       "cpm": 10.14,
       "campaign_id": "120235381942950032",
       "campaign_name": "CS_MommyMakeover_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 2,
-      "cost_per_purchase": 140.12,
+      "primary_count": 2,
+      "primary_cost": 140.12,
+      "leads_count": 46,
+      "leads_cost": 6.09,
       "conversion_rate": 0.343
     },
     {
@@ -1856,10 +1856,10 @@
       "cpm": 10.83,
       "campaign_id": "120215866846780032",
       "campaign_name": "CS_Brustvergrößerungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 2,
-      "cost_per_purchase": 139.44,
+      "primary_count": 2,
+      "primary_cost": 139.44,
+      "leads_count": 19,
+      "leads_cost": 14.68,
       "conversion_rate": 0.472
     },
     {
@@ -1875,10 +1875,10 @@
       "cpm": 15.65,
       "campaign_id": "120231788897160032",
       "campaign_name": "CS_Körperformungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 2,
-      "cost_per_purchase": 231.74,
+      "primary_count": 2,
+      "primary_cost": 231.74,
+      "leads_count": 33,
+      "leads_cost": 14.04,
       "conversion_rate": 0.286
     },
     {
@@ -1894,10 +1894,10 @@
       "cpm": 10.55,
       "campaign_id": "120235381942950032",
       "campaign_name": "CS_MommyMakeover_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 2,
-      "cost_per_purchase": 139.96,
+      "primary_count": 2,
+      "primary_cost": 139.96,
+      "leads_count": 44,
+      "leads_cost": 6.36,
       "conversion_rate": 0.304
     },
     {
@@ -1913,10 +1913,10 @@
       "cpm": 11.15,
       "campaign_id": "120215866846780032",
       "campaign_name": "CS_Brustvergrößerungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 4,
-      "cost_per_purchase": 46.34,
+      "primary_count": 4,
+      "primary_cost": 46.34,
+      "leads_count": 23,
+      "leads_cost": 8.06,
       "conversion_rate": 1.238
     },
     {
@@ -1932,10 +1932,10 @@
       "cpm": 15.12,
       "campaign_id": "120231788897160032",
       "campaign_name": "CS_Körperformungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 3,
-      "cost_per_purchase": 140.33,
+      "primary_count": 3,
+      "primary_cost": 140.33,
+      "leads_count": 32,
+      "leads_cost": 13.16,
       "conversion_rate": 0.448
     },
     {
@@ -1951,10 +1951,10 @@
       "cpm": 12.15,
       "campaign_id": "120235381942950032",
       "campaign_name": "CS_MommyMakeover_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 32,
+      "leads_cost": 5.76,
       "conversion_rate": 0.0
     },
     {
@@ -1970,10 +1970,10 @@
       "cpm": 10.89,
       "campaign_id": "120215866846780032",
       "campaign_name": "CS_Brustvergrößerungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 6,
-      "cost_per_purchase": 39.63,
+      "primary_count": 6,
+      "primary_cost": 39.63,
+      "leads_count": 29,
+      "leads_cost": 8.2,
       "conversion_rate": 1.63
     },
     {
@@ -1989,10 +1989,10 @@
       "cpm": 13.28,
       "campaign_id": "120231788897160032",
       "campaign_name": "CS_Körperformungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 3,
-      "cost_per_purchase": 110.36,
+      "primary_count": 3,
+      "primary_cost": 110.36,
+      "leads_count": 59,
+      "leads_cost": 5.61,
       "conversion_rate": 0.4
     },
     {
@@ -2008,10 +2008,10 @@
       "cpm": 13.05,
       "campaign_id": "120235381942950032",
       "campaign_name": "CS_MommyMakeover_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 2,
-      "cost_per_purchase": 70.47,
+      "primary_count": 2,
+      "primary_cost": 70.47,
+      "leads_count": 25,
+      "leads_cost": 5.64,
       "conversion_rate": 0.673
     },
     {
@@ -2027,10 +2027,10 @@
       "cpm": 10.59,
       "campaign_id": "120215866846780032",
       "campaign_name": "CS_Brustvergrößerungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 5,
-      "cost_per_purchase": 55.93,
+      "primary_count": 5,
+      "primary_cost": 55.93,
+      "leads_count": 32,
+      "leads_cost": 8.74,
       "conversion_rate": 1.25
     },
     {
@@ -2046,10 +2046,10 @@
       "cpm": 10.77,
       "campaign_id": "120231788897160032",
       "campaign_name": "CS_Körperformungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 3,
-      "cost_per_purchase": 92.6,
+      "primary_count": 3,
+      "primary_cost": 92.6,
+      "leads_count": 45,
+      "leads_cost": 6.17,
       "conversion_rate": 0.342
     },
     {
@@ -2065,10 +2065,10 @@
       "cpm": 14.27,
       "campaign_id": "120235381942950032",
       "campaign_name": "CS_MommyMakeover_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 3,
-      "cost_per_purchase": 46.23,
+      "primary_count": 3,
+      "primary_cost": 46.23,
+      "leads_count": 25,
+      "leads_cost": 5.55,
       "conversion_rate": 1.024
     },
     {
@@ -2084,10 +2084,10 @@
       "cpm": 11.04,
       "campaign_id": "120215866846780032",
       "campaign_name": "CS_Brustvergrößerungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 1,
-      "cost_per_purchase": 281.65,
+      "primary_count": 1,
+      "primary_cost": 281.65,
+      "leads_count": 47,
+      "leads_cost": 5.99,
       "conversion_rate": 0.202
     },
     {
@@ -2103,10 +2103,10 @@
       "cpm": 10.94,
       "campaign_id": "120231788897160032",
       "campaign_name": "CS_Körperformungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 2,
-      "cost_per_purchase": 140.12,
+      "primary_count": 2,
+      "primary_cost": 140.12,
+      "leads_count": 53,
+      "leads_cost": 5.29,
       "conversion_rate": 0.243
     },
     {
@@ -2122,10 +2122,10 @@
       "cpm": 14.69,
       "campaign_id": "120235381942950032",
       "campaign_name": "CS_MommyMakeover_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 21,
+      "leads_cost": 6.77,
       "conversion_rate": 0.0
     },
     {
@@ -2141,10 +2141,10 @@
       "cpm": 11.7,
       "campaign_id": "120215866846780032",
       "campaign_name": "CS_Brustvergrößerungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 6,
-      "cost_per_purchase": 46.76,
+      "primary_count": 6,
+      "primary_cost": 46.76,
+      "leads_count": 24,
+      "leads_cost": 11.69,
       "conversion_rate": 1.489
     },
     {
@@ -2160,10 +2160,10 @@
       "cpm": 12.94,
       "campaign_id": "120231788897160032",
       "campaign_name": "CS_Körperformungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 1,
-      "cost_per_purchase": 283.57,
+      "primary_count": 1,
+      "primary_cost": 283.57,
+      "leads_count": 29,
+      "leads_cost": 9.78,
       "conversion_rate": 0.16
     },
     {
@@ -2179,10 +2179,10 @@
       "cpm": 14.75,
       "campaign_id": "120235381942950032",
       "campaign_name": "CS_MommyMakeover_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 20,
+      "leads_cost": 7.02,
       "conversion_rate": 0.0
     },
     {
@@ -2198,10 +2198,10 @@
       "cpm": 13.15,
       "campaign_id": "120215866846780032",
       "campaign_name": "CS_Brustvergrößerungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 1,
-      "cost_per_purchase": 285.88,
+      "primary_count": 1,
+      "primary_cost": 285.88,
+      "leads_count": 23,
+      "leads_cost": 12.43,
       "conversion_rate": 0.267
     },
     {
@@ -2217,10 +2217,10 @@
       "cpm": 15.47,
       "campaign_id": "120231788897160032",
       "campaign_name": "CS_Körperformungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 1,
-      "cost_per_purchase": 398.36,
+      "primary_count": 1,
+      "primary_cost": 398.36,
+      "leads_count": 40,
+      "leads_cost": 9.96,
       "conversion_rate": 0.131
     },
     {
@@ -2236,10 +2236,10 @@
       "cpm": 15.22,
       "campaign_id": "120235381942950032",
       "campaign_name": "CS_MommyMakeover_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 20,
+      "leads_cost": 6.96,
       "conversion_rate": 0.0
     },
     {
@@ -2255,10 +2255,10 @@
       "cpm": 12.39,
       "campaign_id": "120215866846780032",
       "campaign_name": "CS_Brustvergrößerungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 3,
-      "cost_per_purchase": 90.66,
+      "primary_count": 3,
+      "primary_cost": 90.66,
+      "leads_count": 22,
+      "leads_cost": 12.36,
       "conversion_rate": 0.714
     },
     {
@@ -2274,10 +2274,10 @@
       "cpm": 13.27,
       "campaign_id": "120231788897160032",
       "campaign_name": "CS_Körperformungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 2,
-      "cost_per_purchase": 215.01,
+      "primary_count": 2,
+      "primary_cost": 215.01,
+      "leads_count": 40,
+      "leads_cost": 10.75,
       "conversion_rate": 0.188
     },
     {
@@ -2293,10 +2293,10 @@
       "cpm": 15.56,
       "campaign_id": "120235381942950032",
       "campaign_name": "CS_MommyMakeover_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 1,
-      "cost_per_purchase": 135.41,
+      "primary_count": 1,
+      "primary_cost": 135.41,
+      "leads_count": 19,
+      "leads_cost": 7.13,
       "conversion_rate": 0.415
     },
     {
@@ -2312,10 +2312,10 @@
       "cpm": 11.4,
       "campaign_id": "120215866846780032",
       "campaign_name": "CS_Brustvergrößerungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 5,
-      "cost_per_purchase": 55.89,
+      "primary_count": 5,
+      "primary_cost": 55.89,
+      "leads_count": 48,
+      "leads_cost": 5.82,
       "conversion_rate": 0.977
     },
     {
@@ -2331,10 +2331,10 @@
       "cpm": 10.69,
       "campaign_id": "120231788897160032",
       "campaign_name": "CS_Körperformungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 39,
+      "leads_cost": 8.64,
       "conversion_rate": 0.0
     },
     {
@@ -2350,10 +2350,10 @@
       "cpm": 13.61,
       "campaign_id": "120235381942950032",
       "campaign_name": "CS_MommyMakeover_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 14,
+      "leads_cost": 10.27,
       "conversion_rate": 0.0
     },
     {
@@ -2369,10 +2369,10 @@
       "cpm": 11.26,
       "campaign_id": "120215866846780032",
       "campaign_name": "CS_Brustvergrößerungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 3,
-      "cost_per_purchase": 93.81,
+      "primary_count": 3,
+      "primary_cost": 93.81,
+      "leads_count": 33,
+      "leads_cost": 8.53,
       "conversion_rate": 0.662
     },
     {
@@ -2388,10 +2388,10 @@
       "cpm": 10.62,
       "campaign_id": "120231788897160032",
       "campaign_name": "CS_Körperformungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 8,
+      "leads_cost": 9.04,
       "conversion_rate": 0.0
     },
     {
@@ -2407,10 +2407,10 @@
       "cpm": 14.1,
       "campaign_id": "120235381942950032",
       "campaign_name": "CS_MommyMakeover_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 1,
-      "cost_per_purchase": 74.62,
+      "primary_count": 1,
+      "primary_cost": 74.62,
+      "leads_count": 9,
+      "leads_cost": 8.29,
       "conversion_rate": 0.541
     },
     {
@@ -2426,10 +2426,10 @@
       "cpm": 10.34,
       "campaign_id": "120215866846780032",
       "campaign_name": "CS_Brustvergrößerungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 4,
-      "cost_per_purchase": 69.8,
+      "primary_count": 4,
+      "primary_cost": 69.8,
+      "leads_count": 31,
+      "leads_cost": 9.01,
       "conversion_rate": 0.815
     },
     {
@@ -2445,10 +2445,10 @@
       "cpm": 21.87,
       "campaign_id": "120220482966460032",
       "campaign_name": "CS_Gesichtsbehandlungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 14,
+      "leads_cost": 9.6,
       "conversion_rate": 0.0
     },
     {
@@ -2464,10 +2464,10 @@
       "cpm": 10.92,
       "campaign_id": "120231788897160032",
       "campaign_name": "CS_Körperformungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 20,
+      "leads_cost": 3.62,
       "conversion_rate": 0.0
     },
     {
@@ -2483,10 +2483,10 @@
       "cpm": 15.27,
       "campaign_id": "120235381942950032",
       "campaign_name": "CS_MommyMakeover_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 10,
+      "leads_cost": 7.15,
       "conversion_rate": 0.0
     },
     {
@@ -2502,10 +2502,10 @@
       "cpm": 10.61,
       "campaign_id": "120215866846780032",
       "campaign_name": "CS_Brustvergrößerungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 28,
-      "cost_per_purchase": 6.75,
+      "primary_count": 28,
+      "primary_cost": 6.75,
+      "leads_count": 30,
+      "leads_cost": 6.3,
       "conversion_rate": 7.713
     },
     {
@@ -2521,10 +2521,10 @@
       "cpm": 19.06,
       "campaign_id": "120220482966460032",
       "campaign_name": "CS_Gesichtsbehandlungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 1,
-      "cost_per_purchase": 140.36,
+      "primary_count": 1,
+      "primary_cost": 140.36,
+      "leads_count": 24,
+      "leads_cost": 5.85,
       "conversion_rate": 0.415
     },
     {
@@ -2540,10 +2540,10 @@
       "cpm": 10.83,
       "campaign_id": "120231788897160032",
       "campaign_name": "CS_Körperformungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 1,
-      "cost_per_purchase": 69.08,
+      "primary_count": 1,
+      "primary_cost": 69.08,
+      "leads_count": 19,
+      "leads_cost": 3.64,
       "conversion_rate": 0.391
     },
     {
@@ -2559,10 +2559,10 @@
       "cpm": 14.14,
       "campaign_id": "120235381942950032",
       "campaign_name": "CS_MommyMakeover_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 7,
+      "leads_cost": 9.83,
       "conversion_rate": 0.0
     },
     {
@@ -2578,10 +2578,10 @@
       "cpm": 10.69,
       "campaign_id": "120215866846780032",
       "campaign_name": "CS_Brustvergrößerungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 3,
-      "cost_per_purchase": 46.61,
+      "primary_count": 3,
+      "primary_cost": 46.61,
+      "leads_count": 19,
+      "leads_cost": 7.36,
       "conversion_rate": 1.038
     },
     {
@@ -2597,10 +2597,10 @@
       "cpm": 15.09,
       "campaign_id": "120220482966460032",
       "campaign_name": "CS_Gesichtsbehandlungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 27,
+      "leads_cost": 5.07,
       "conversion_rate": 0.0
     },
     {
@@ -2616,10 +2616,10 @@
       "cpm": 10.02,
       "campaign_id": "120231788897160032",
       "campaign_name": "CS_Körperformungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 16,
+      "leads_cost": 4.36,
       "conversion_rate": 0.0
     },
     {
@@ -2635,10 +2635,10 @@
       "cpm": 12.32,
       "campaign_id": "120235381942950032",
       "campaign_name": "CS_MommyMakeover_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 2,
-      "cost_per_purchase": 34.49,
+      "primary_count": 2,
+      "primary_cost": 34.49,
+      "leads_count": 11,
+      "leads_cost": 6.27,
       "conversion_rate": 1.064
     },
     {
@@ -2654,10 +2654,10 @@
       "cpm": 10.89,
       "campaign_id": "120215866846780032",
       "campaign_name": "CS_Brustvergrößerungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 5,
-      "cost_per_purchase": 28.01,
+      "primary_count": 5,
+      "primary_cost": 28.01,
+      "leads_count": 24,
+      "leads_cost": 5.84,
       "conversion_rate": 1.689
     },
     {
@@ -2673,10 +2673,10 @@
       "cpm": 17.49,
       "campaign_id": "120220482966460032",
       "campaign_name": "CS_Gesichtsbehandlungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 0,
+      "leads_cost": 0.0,
       "conversion_rate": 0.0
     },
     {
@@ -2692,10 +2692,10 @@
       "cpm": 9.73,
       "campaign_id": "120231788897160032",
       "campaign_name": "CS_Körperformungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 3,
-      "cost_per_purchase": 23.29,
+      "primary_count": 3,
+      "primary_cost": 23.29,
+      "leads_count": 17,
+      "leads_cost": 4.11,
       "conversion_rate": 1.124
     },
     {
@@ -2711,10 +2711,10 @@
       "cpm": 12.78,
       "campaign_id": "120235381942950032",
       "campaign_name": "CS_MommyMakeover_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 2,
-      "cost_per_purchase": 34.81,
+      "primary_count": 2,
+      "primary_cost": 34.81,
+      "leads_count": 8,
+      "leads_cost": 8.7,
       "conversion_rate": 1.399
     },
     {
@@ -2730,10 +2730,10 @@
       "cpm": 10.68,
       "campaign_id": "120215866846780032",
       "campaign_name": "CS_Brustvergrößerungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 4,
-      "cost_per_purchase": 35.0,
+      "primary_count": 4,
+      "primary_cost": 35.0,
+      "leads_count": 27,
+      "leads_cost": 5.19,
       "conversion_rate": 1.493
     },
     {
@@ -2749,10 +2749,10 @@
       "cpm": 15.32,
       "campaign_id": "120220482966460032",
       "campaign_name": "CS_Gesichtsbehandlungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 1,
-      "cost_per_purchase": 163.99,
+      "primary_count": 1,
+      "primary_cost": 163.99,
+      "leads_count": 35,
+      "leads_cost": 4.69,
       "conversion_rate": 0.369
     },
     {
@@ -2768,10 +2768,10 @@
       "cpm": 9.55,
       "campaign_id": "120231788897160032",
       "campaign_name": "CS_Körperformungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 1,
-      "cost_per_purchase": 69.35,
+      "primary_count": 1,
+      "primary_cost": 69.35,
+      "leads_count": 17,
+      "leads_cost": 4.08,
       "conversion_rate": 0.368
     },
     {
@@ -2787,10 +2787,10 @@
       "cpm": 13.12,
       "campaign_id": "120235381942950032",
       "campaign_name": "CS_MommyMakeover_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 21,
+      "leads_cost": 3.37,
       "conversion_rate": 0.0
     },
     {
@@ -2806,10 +2806,10 @@
       "cpm": 10.84,
       "campaign_id": "120215866846780032",
       "campaign_name": "CS_Brustvergrößerungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 11,
-      "cost_per_purchase": 12.71,
+      "primary_count": 11,
+      "primary_cost": 12.71,
+      "leads_count": 27,
+      "leads_cost": 5.18,
       "conversion_rate": 3.793
     },
     {
@@ -2825,10 +2825,10 @@
       "cpm": 16.27,
       "campaign_id": "120220482966460032",
       "campaign_name": "CS_Gesichtsbehandlungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 31,
+      "leads_cost": 4.53,
       "conversion_rate": 0.0
     },
     {
@@ -2844,10 +2844,10 @@
       "cpm": 9.68,
       "campaign_id": "120231788897160032",
       "campaign_name": "CS_Körperformungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 1,
-      "cost_per_purchase": 71.05,
+      "primary_count": 1,
+      "primary_cost": 71.05,
+      "leads_count": 15,
+      "leads_cost": 4.74,
       "conversion_rate": 0.37
     },
     {
@@ -2863,10 +2863,10 @@
       "cpm": 13.74,
       "campaign_id": "120235381942950032",
       "campaign_name": "CS_MommyMakeover_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 10,
+      "leads_cost": 7.03,
       "conversion_rate": 0.0
     },
     {
@@ -2882,10 +2882,10 @@
       "cpm": 10.62,
       "campaign_id": "120215866846780032",
       "campaign_name": "CS_Brustvergrößerungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 4,
-      "cost_per_purchase": 35.24,
+      "primary_count": 4,
+      "primary_cost": 35.24,
+      "leads_count": 23,
+      "leads_cost": 6.13,
       "conversion_rate": 1.198
     },
     {
@@ -2901,10 +2901,10 @@
       "cpm": 15.19,
       "campaign_id": "120220482966460032",
       "campaign_name": "CS_Gesichtsbehandlungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 2,
-      "cost_per_purchase": 70.03,
+      "primary_count": 2,
+      "primary_cost": 70.03,
+      "leads_count": 36,
+      "leads_cost": 3.89,
       "conversion_rate": 0.685
     },
     {
@@ -2920,10 +2920,10 @@
       "cpm": 9.99,
       "campaign_id": "120231788897160032",
       "campaign_name": "CS_Körperformungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 14,
+      "leads_cost": 4.94,
       "conversion_rate": 0.0
     },
     {
@@ -2939,10 +2939,10 @@
       "cpm": 14.14,
       "campaign_id": "120235381942950032",
       "campaign_name": "CS_MommyMakeover_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 15,
+      "leads_cost": 4.65,
       "conversion_rate": 0.0
     },
     {
@@ -2958,10 +2958,10 @@
       "cpm": 10.76,
       "campaign_id": "120215866846780032",
       "campaign_name": "CS_Brustvergrößerungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 2,
-      "cost_per_purchase": 69.61,
+      "primary_count": 2,
+      "primary_cost": 69.61,
+      "leads_count": 17,
+      "leads_cost": 8.19,
       "conversion_rate": 0.669
     },
     {
@@ -2977,10 +2977,10 @@
       "cpm": 15.0,
       "campaign_id": "120220482966460032",
       "campaign_name": "CS_Gesichtsbehandlungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 1,
-      "cost_per_purchase": 76.56,
+      "primary_count": 1,
+      "primary_cost": 76.56,
+      "leads_count": 26,
+      "leads_cost": 2.94,
       "conversion_rate": 0.457
     },
     {
@@ -2996,10 +2996,10 @@
       "cpm": 10.73,
       "campaign_id": "120231788897160032",
       "campaign_name": "CS_Körperformungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 33,
+      "leads_cost": 4.13,
       "conversion_rate": 0.0
     },
     {
@@ -3015,10 +3015,10 @@
       "cpm": 13.79,
       "campaign_id": "120235381942950032",
       "campaign_name": "CS_MommyMakeover_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 11,
+      "leads_cost": 12.55,
       "conversion_rate": 0.0
     },
     {
@@ -3034,10 +3034,10 @@
       "cpm": 10.95,
       "campaign_id": "120215866846780032",
       "campaign_name": "CS_Brustvergrößerungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 3,
-      "cost_per_purchase": 47.86,
+      "primary_count": 3,
+      "primary_cost": 47.86,
+      "leads_count": 26,
+      "leads_cost": 5.52,
       "conversion_rate": 0.447
     },
     {
@@ -3053,10 +3053,10 @@
       "cpm": 13.63,
       "campaign_id": "120220482966460032",
       "campaign_name": "CS_Gesichtsbehandlungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 15,
+      "leads_cost": 4.72,
       "conversion_rate": 0.0
     },
     {
@@ -3072,10 +3072,10 @@
       "cpm": 9.99,
       "campaign_id": "120231788897160032",
       "campaign_name": "CS_Körperformungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 17,
+      "leads_cost": 6.47,
       "conversion_rate": 0.0
     },
     {
@@ -3091,10 +3091,10 @@
       "cpm": 13.55,
       "campaign_id": "120235381942950032",
       "campaign_name": "CS_MommyMakeover_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 1,
-      "cost_per_purchase": 109.7,
+      "primary_count": 1,
+      "primary_cost": 109.7,
+      "leads_count": 21,
+      "leads_cost": 5.22,
       "conversion_rate": 0.345
     },
     {
@@ -3110,10 +3110,10 @@
       "cpm": 11.57,
       "campaign_id": "120215866846780032",
       "campaign_name": "CS_Brustvergrößerungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 2,
-      "cost_per_purchase": 66.92,
+      "primary_count": 2,
+      "primary_cost": 66.92,
+      "leads_count": 30,
+      "leads_cost": 4.46,
       "conversion_rate": 0.377
     },
     {
@@ -3129,10 +3129,10 @@
       "cpm": 14.2,
       "campaign_id": "120220482966460032",
       "campaign_name": "CS_Gesichtsbehandlungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 2,
-      "cost_per_purchase": 34.33,
+      "primary_count": 2,
+      "primary_cost": 34.33,
+      "leads_count": 37,
+      "leads_cost": 1.86,
       "conversion_rate": 1.235
     },
     {
@@ -3148,10 +3148,10 @@
       "cpm": 13.95,
       "campaign_id": "120231788897160032",
       "campaign_name": "CS_Körperformungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 15,
+      "leads_cost": 6.79,
       "conversion_rate": 0.0
     },
     {
@@ -3167,10 +3167,10 @@
       "cpm": 14.7,
       "campaign_id": "120235381942950032",
       "campaign_name": "CS_MommyMakeover_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 26,
+      "leads_cost": 3.94,
       "conversion_rate": 0.0
     },
     {
@@ -3186,10 +3186,10 @@
       "cpm": 11.91,
       "campaign_id": "120215866846780032",
       "campaign_name": "CS_Brustvergrößerungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 3,
-      "cost_per_purchase": 47.76,
+      "primary_count": 3,
+      "primary_cost": 47.76,
+      "leads_count": 24,
+      "leads_cost": 5.97,
       "conversion_rate": 0.993
     },
     {
@@ -3205,10 +3205,10 @@
       "cpm": 14.4,
       "campaign_id": "120220482966460032",
       "campaign_name": "CS_Gesichtsbehandlungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 1,
-      "cost_per_purchase": 70.88,
+      "primary_count": 1,
+      "primary_cost": 70.88,
+      "leads_count": 20,
+      "leads_cost": 3.54,
       "conversion_rate": 0.562
     },
     {
@@ -3224,10 +3224,10 @@
       "cpm": 13.07,
       "campaign_id": "120231788897160032",
       "campaign_name": "CS_Körperformungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 1,
-      "cost_per_purchase": 108.28,
+      "primary_count": 1,
+      "primary_cost": 108.28,
+      "leads_count": 15,
+      "leads_cost": 7.22,
       "conversion_rate": 0.316
     },
     {
@@ -3243,10 +3243,10 @@
       "cpm": 17.63,
       "campaign_id": "120235381942950032",
       "campaign_name": "CS_MommyMakeover_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 18,
+      "leads_cost": 5.94,
       "conversion_rate": 0.0
     },
     {
@@ -3262,10 +3262,10 @@
       "cpm": 11.55,
       "campaign_id": "120215866846780032",
       "campaign_name": "CS_Brustvergrößerungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 12,
-      "cost_per_purchase": 15.53,
+      "primary_count": 12,
+      "primary_cost": 15.53,
+      "leads_count": 24,
+      "leads_cost": 7.77,
       "conversion_rate": 1.788
     },
     {
@@ -3281,10 +3281,10 @@
       "cpm": 15.29,
       "campaign_id": "120220482966460032",
       "campaign_name": "CS_Gesichtsbehandlungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 22,
+      "leads_cost": 3.17,
       "conversion_rate": 0.0
     },
     {
@@ -3300,10 +3300,10 @@
       "cpm": 13.76,
       "campaign_id": "120231788897160032",
       "campaign_name": "CS_Körperformungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 1,
-      "cost_per_purchase": 102.99,
+      "primary_count": 1,
+      "primary_cost": 102.99,
+      "leads_count": 15,
+      "leads_cost": 6.87,
       "conversion_rate": 0.368
     },
     {
@@ -3319,10 +3319,10 @@
       "cpm": 18.07,
       "campaign_id": "120235381942950032",
       "campaign_name": "CS_MommyMakeover_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 7,
+      "leads_cost": 14.83,
       "conversion_rate": 0.0
     },
     {
@@ -3338,10 +3338,10 @@
       "cpm": 9.06,
       "campaign_id": "120215866846780032",
       "campaign_name": "CS_Brustvergrößerungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 5,
-      "cost_per_purchase": 44.72,
+      "primary_count": 5,
+      "primary_cost": 44.72,
+      "leads_count": 32,
+      "leads_cost": 6.99,
       "conversion_rate": 0.241
     },
     {
@@ -3357,10 +3357,10 @@
       "cpm": 16.44,
       "campaign_id": "120220482966460032",
       "campaign_name": "CS_Gesichtsbehandlungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 23,
+      "leads_cost": 3.09,
       "conversion_rate": 0.0
     },
     {
@@ -3376,10 +3376,10 @@
       "cpm": 14.26,
       "campaign_id": "120231788897160032",
       "campaign_name": "CS_Körperformungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 3,
-      "cost_per_purchase": 58.06,
+      "primary_count": 3,
+      "primary_cost": 58.06,
+      "leads_count": 21,
+      "leads_cost": 8.29,
       "conversion_rate": 0.499
     },
     {
@@ -3395,10 +3395,10 @@
       "cpm": 13.5,
       "campaign_id": "120235381942950032",
       "campaign_name": "CS_MommyMakeover_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 23,
+      "leads_cost": 4.61,
       "conversion_rate": 0.0
     }
   ],
@@ -3417,10 +3417,10 @@
       "cpm": 9.87,
       "campaign_id": "120215866846780032",
       "campaign_name": "CS_Brustvergrößerungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 130,
+      "leads_cost": 4.77,
       "conversion_rate": 0.0
     },
     {
@@ -3437,10 +3437,10 @@
       "cpm": 18.04,
       "campaign_id": "120220482966460032",
       "campaign_name": "CS_Gesichtsbehandlungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 136,
+      "leads_cost": 4.56,
       "conversion_rate": 0.0
     },
     {
@@ -3457,10 +3457,10 @@
       "cpm": 11.25,
       "campaign_id": "120215866846780032",
       "campaign_name": "CS_Brustvergrößerungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 113,
+      "leads_cost": 5.32,
       "conversion_rate": 0.0
     },
     {
@@ -3477,10 +3477,10 @@
       "cpm": 21.39,
       "campaign_id": "120220482966460032",
       "campaign_name": "CS_Gesichtsbehandlungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 128,
+      "leads_cost": 4.7,
       "conversion_rate": 0.0
     },
     {
@@ -3497,10 +3497,10 @@
       "cpm": 9.79,
       "campaign_id": "120231788897160032",
       "campaign_name": "CS_Körperformungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 171,
+      "leads_cost": 7.61,
       "conversion_rate": 0.0
     },
     {
@@ -3517,10 +3517,10 @@
       "cpm": 10.56,
       "campaign_id": "120215866846780032",
       "campaign_name": "CS_Brustvergrößerungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 164,
+      "leads_cost": 9.45,
       "conversion_rate": 0.0
     },
     {
@@ -3537,10 +3537,10 @@
       "cpm": 19.97,
       "campaign_id": "120220482966460032",
       "campaign_name": "CS_Gesichtsbehandlungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 137,
+      "leads_cost": 5.28,
       "conversion_rate": 0.0
     },
     {
@@ -3557,10 +3557,10 @@
       "cpm": 10.04,
       "campaign_id": "120231788897160032",
       "campaign_name": "CS_Körperformungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 152,
+      "leads_cost": 10.77,
       "conversion_rate": 0.0
     },
     {
@@ -3577,10 +3577,10 @@
       "cpm": 13.0,
       "campaign_id": "120215866846780032",
       "campaign_name": "CS_Brustvergrößerungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 139,
+      "leads_cost": 11.29,
       "conversion_rate": 0.0
     },
     {
@@ -3597,10 +3597,10 @@
       "cpm": 24.37,
       "campaign_id": "120220482966460032",
       "campaign_name": "CS_Gesichtsbehandlungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 120,
+      "leads_cost": 5.35,
       "conversion_rate": 0.0
     },
     {
@@ -3617,10 +3617,10 @@
       "cpm": 11.22,
       "campaign_id": "120231788897160032",
       "campaign_name": "CS_Körperformungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 102,
+      "leads_cost": 11.68,
       "conversion_rate": 0.0
     },
     {
@@ -3637,10 +3637,10 @@
       "cpm": 11.26,
       "campaign_id": "120235381942950032",
       "campaign_name": "CS_MommyMakeover_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 69,
+      "leads_cost": 7.85,
       "conversion_rate": 0.0
     },
     {
@@ -3657,10 +3657,10 @@
       "cpm": 11.48,
       "campaign_id": "120215866846780032",
       "campaign_name": "CS_Brustvergrößerungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 17,
-      "cost_per_purchase": 72.58,
+      "primary_count": 17,
+      "primary_cost": 72.58,
+      "leads_count": 178,
+      "leads_cost": 6.93,
       "conversion_rate": 1.153
     },
     {
@@ -3677,10 +3677,10 @@
       "cpm": 22.88,
       "campaign_id": "120220482966460032",
       "campaign_name": "CS_Gesichtsbehandlungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 28,
+      "leads_cost": 7.17,
       "conversion_rate": 0.0
     },
     {
@@ -3697,10 +3697,10 @@
       "cpm": 13.48,
       "campaign_id": "120231788897160032",
       "campaign_name": "CS_Körperformungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 12,
-      "cost_per_purchase": 141.07,
+      "primary_count": 12,
+      "primary_cost": 141.07,
+      "leads_count": 140,
+      "leads_cost": 12.09,
       "conversion_rate": 0.514
     },
     {
@@ -3717,10 +3717,10 @@
       "cpm": 9.84,
       "campaign_id": "120235381942950032",
       "campaign_name": "CS_MommyMakeover_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 6,
-      "cost_per_purchase": 206.6,
+      "primary_count": 6,
+      "primary_cost": 206.6,
+      "leads_count": 101,
+      "leads_cost": 12.27,
       "conversion_rate": 0.236
     },
     {
@@ -3737,10 +3737,10 @@
       "cpm": 9.57,
       "campaign_id": "120215866846780032",
       "campaign_name": "CS_Brustvergrößerungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 38,
-      "cost_per_purchase": 32.51,
+      "primary_count": 38,
+      "primary_cost": 32.51,
+      "leads_count": 203,
+      "leads_cost": 6.09,
       "conversion_rate": 2.089
     },
     {
@@ -3757,10 +3757,10 @@
       "cpm": 13.48,
       "campaign_id": "120231788897160032",
       "campaign_name": "CS_Körperformungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 22,
-      "cost_per_purchase": 84.22,
+      "primary_count": 22,
+      "primary_cost": 84.22,
+      "leads_count": 163,
+      "leads_cost": 11.37,
       "conversion_rate": 0.801
     },
     {
@@ -3777,10 +3777,10 @@
       "cpm": 9.4,
       "campaign_id": "120235381942950032",
       "campaign_name": "CS_MommyMakeover_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 8,
-      "cost_per_purchase": 153.91,
+      "primary_count": 8,
+      "primary_cost": 153.91,
+      "leads_count": 161,
+      "leads_cost": 7.65,
       "conversion_rate": 0.236
     },
     {
@@ -3797,10 +3797,10 @@
       "cpm": 9.59,
       "campaign_id": "120215866846780032",
       "campaign_name": "CS_Brustvergrößerungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 33,
-      "cost_per_purchase": 33.9,
+      "primary_count": 33,
+      "primary_cost": 33.9,
+      "leads_count": 178,
+      "leads_cost": 6.29,
       "conversion_rate": 1.976
     },
     {
@@ -3817,10 +3817,10 @@
       "cpm": 15.26,
       "campaign_id": "120231788897160032",
       "campaign_name": "CS_Körperformungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 17,
-      "cost_per_purchase": 98.51,
+      "primary_count": 17,
+      "primary_cost": 98.51,
+      "leads_count": 135,
+      "leads_cost": 12.4,
       "conversion_rate": 0.676
     },
     {
@@ -3837,10 +3837,10 @@
       "cpm": 13.23,
       "campaign_id": "120235381942950032",
       "campaign_name": "CS_MommyMakeover_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 8,
-      "cost_per_purchase": 139.82,
+      "primary_count": 8,
+      "primary_cost": 139.82,
+      "leads_count": 108,
+      "leads_cost": 10.36,
       "conversion_rate": 0.376
     },
     {
@@ -3857,10 +3857,10 @@
       "cpm": 10.08,
       "campaign_id": "120215866846780032",
       "campaign_name": "CS_Brustvergrößerungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 24,
-      "cost_per_purchase": 51.79,
+      "primary_count": 24,
+      "primary_cost": 51.79,
+      "leads_count": 164,
+      "leads_cost": 7.58,
       "conversion_rate": 1.257
     },
     {
@@ -3877,10 +3877,10 @@
       "cpm": 16.69,
       "campaign_id": "120231788897160032",
       "campaign_name": "CS_Körperformungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 19,
-      "cost_per_purchase": 119.27,
+      "primary_count": 19,
+      "primary_cost": 119.27,
+      "leads_count": 228,
+      "leads_cost": 9.94,
       "conversion_rate": 0.567
     },
     {
@@ -3897,10 +3897,10 @@
       "cpm": 11.98,
       "campaign_id": "120235381942950032",
       "campaign_name": "CS_MommyMakeover_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 14,
-      "cost_per_purchase": 82.31,
+      "primary_count": 14,
+      "primary_cost": 82.31,
+      "leads_count": 163,
+      "leads_cost": 7.07,
       "conversion_rate": 0.564
     },
     {
@@ -3917,10 +3917,10 @@
       "cpm": 10.47,
       "campaign_id": "120215866846780032",
       "campaign_name": "CS_Brustvergrößerungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 21,
-      "cost_per_purchase": 50.8,
+      "primary_count": 21,
+      "primary_cost": 50.8,
+      "leads_count": 113,
+      "leads_cost": 9.44,
       "conversion_rate": 1.247
     },
     {
@@ -3937,10 +3937,10 @@
       "cpm": 15.43,
       "campaign_id": "120231788897160032",
       "campaign_name": "CS_Körperformungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 10,
-      "cost_per_purchase": 193.9,
+      "primary_count": 10,
+      "primary_cost": 193.9,
+      "leads_count": 152,
+      "leads_cost": 12.76,
       "conversion_rate": 0.333
     },
     {
@@ -3957,10 +3957,10 @@
       "cpm": 10.78,
       "campaign_id": "120235381942950032",
       "campaign_name": "CS_MommyMakeover_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 5,
-      "cost_per_purchase": 205.04,
+      "primary_count": 5,
+      "primary_cost": 205.04,
+      "leads_count": 164,
+      "leads_cost": 6.25,
       "conversion_rate": 0.225
     },
     {
@@ -3977,10 +3977,10 @@
       "cpm": 11.44,
       "campaign_id": "120215866846780032",
       "campaign_name": "CS_Brustvergrößerungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 14,
-      "cost_per_purchase": 89.09,
+      "primary_count": 14,
+      "primary_cost": 89.09,
+      "leads_count": 142,
+      "leads_cost": 8.78,
       "conversion_rate": 0.757
     },
     {
@@ -3997,10 +3997,10 @@
       "cpm": 12.36,
       "campaign_id": "120231788897160032",
       "campaign_name": "CS_Körperformungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 9,
-      "cost_per_purchase": 150.93,
+      "primary_count": 9,
+      "primary_cost": 150.93,
+      "leads_count": 193,
+      "leads_cost": 7.04,
       "conversion_rate": 0.262
     },
     {
@@ -4017,10 +4017,10 @@
       "cpm": 14.6,
       "campaign_id": "120235381942950032",
       "campaign_name": "CS_MommyMakeover_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 4,
-      "cost_per_purchase": 155.46,
+      "primary_count": 4,
+      "primary_cost": 155.46,
+      "leads_count": 98,
+      "leads_cost": 6.35,
       "conversion_rate": 0.311
     },
     {
@@ -4037,10 +4037,10 @@
       "cpm": 11.2,
       "campaign_id": "120215866846780032",
       "campaign_name": "CS_Brustvergrößerungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 39,
-      "cost_per_purchase": 30.65,
+      "primary_count": 39,
+      "primary_cost": 30.65,
+      "leads_count": 150,
+      "leads_cost": 7.97,
       "conversion_rate": 1.928
     },
     {
@@ -4057,10 +4057,10 @@
       "cpm": 21.77,
       "campaign_id": "120220482966460032",
       "campaign_name": "CS_Gesichtsbehandlungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 0,
-      "cost_per_purchase": 0.0,
+      "primary_count": 0,
+      "primary_cost": 0.0,
+      "leads_count": 17,
+      "leads_cost": 10.12,
       "conversion_rate": 0.0
     },
     {
@@ -4077,10 +4077,10 @@
       "cpm": 11.76,
       "campaign_id": "120231788897160032",
       "campaign_name": "CS_Körperformungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 2,
-      "cost_per_purchase": 465.89,
+      "primary_count": 2,
+      "primary_cost": 465.89,
+      "leads_count": 113,
+      "leads_cost": 8.25,
       "conversion_rate": 0.077
     },
     {
@@ -4097,10 +4097,10 @@
       "cpm": 14.54,
       "campaign_id": "120235381942950032",
       "campaign_name": "CS_MommyMakeover_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 2,
-      "cost_per_purchase": 222.69,
+      "primary_count": 2,
+      "primary_cost": 222.69,
+      "leads_count": 53,
+      "leads_cost": 8.4,
       "conversion_rate": 0.215
     },
     {
@@ -4117,10 +4117,10 @@
       "cpm": 10.83,
       "campaign_id": "120215866846780032",
       "campaign_name": "CS_Brustvergrößerungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 22,
-      "cost_per_purchase": 28.25,
+      "primary_count": 22,
+      "primary_cost": 28.25,
+      "leads_count": 105,
+      "leads_cost": 5.92,
       "conversion_rate": 1.73
     },
     {
@@ -4137,10 +4137,10 @@
       "cpm": 15.86,
       "campaign_id": "120220482966460032",
       "campaign_name": "CS_Gesichtsbehandlungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 2,
-      "cost_per_purchase": 255.5,
+      "primary_count": 2,
+      "primary_cost": 255.5,
+      "leads_count": 102,
+      "leads_cost": 5.01,
       "conversion_rate": 0.227
     },
     {
@@ -4157,10 +4157,10 @@
       "cpm": 9.88,
       "campaign_id": "120231788897160032",
       "campaign_name": "CS_Körperformungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 6,
-      "cost_per_purchase": 51.11,
+      "primary_count": 6,
+      "primary_cost": 51.11,
+      "leads_count": 75,
+      "leads_cost": 4.09,
       "conversion_rate": 0.496
     },
     {
@@ -4177,10 +4177,10 @@
       "cpm": 13.1,
       "campaign_id": "120235381942950032",
       "campaign_name": "CS_MommyMakeover_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 4,
-      "cost_per_purchase": 76.92,
+      "primary_count": 4,
+      "primary_cost": 76.92,
+      "leads_count": 53,
+      "leads_cost": 5.81,
       "conversion_rate": 0.538
     },
     {
@@ -4197,10 +4197,10 @@
       "cpm": 10.96,
       "campaign_id": "120215866846780032",
       "campaign_name": "CS_Brustvergrößerungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 16,
-      "cost_per_purchase": 38.89,
+      "primary_count": 16,
+      "primary_cost": 38.89,
+      "leads_count": 106,
+      "leads_cost": 5.87,
       "conversion_rate": 0.81
     },
     {
@@ -4217,10 +4217,10 @@
       "cpm": 14.94,
       "campaign_id": "120220482966460032",
       "campaign_name": "CS_Gesichtsbehandlungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 5,
-      "cost_per_purchase": 82.07,
+      "primary_count": 5,
+      "primary_cost": 82.07,
+      "leads_count": 131,
+      "leads_cost": 3.13,
       "conversion_rate": 0.534
     },
     {
@@ -4237,10 +4237,10 @@
       "cpm": 11.01,
       "campaign_id": "120231788897160032",
       "campaign_name": "CS_Körperformungen_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 1,
-      "cost_per_purchase": 454.21,
+      "primary_count": 1,
+      "primary_cost": 454.21,
+      "leads_count": 86,
+      "leads_cost": 5.28,
       "conversion_rate": 0.065
     },
     {
@@ -4257,10 +4257,10 @@
       "cpm": 14.01,
       "campaign_id": "120235381942950032",
       "campaign_name": "CS_MommyMakeover_Leads",
-      "revenue": 0.0,
-      "roas": 0.0,
-      "purchases": 1,
-      "cost_per_purchase": 457.81,
+      "primary_count": 1,
+      "primary_cost": 457.81,
+      "leads_count": 81,
+      "leads_cost": 5.65,
       "conversion_rate": 0.09
     }
   ]
