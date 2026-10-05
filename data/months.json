@@ -214,5 +214,23 @@
     "leads_count": 404,
     "leads_cost": 4.81,
     "conversion_rate": 0.414
+  },
+  {
+    "month": "2026-09",
+    "year": 2026,
+    "month_num": 9,
+    "date_start": "2026-09-01",
+    "date_stop": "2026-09-30",
+    "spend": 2226.74,
+    "link_clicks": 9192,
+    "cpc": 0.242,
+    "ctr": 5.27,
+    "impressions": 174421,
+    "cpm": 12.77,
+    "primary_count": 30,
+    "primary_cost": 74.22,
+    "leads_count": 367,
+    "leads_cost": 6.07,
+    "conversion_rate": 0.326
   }
 ]
