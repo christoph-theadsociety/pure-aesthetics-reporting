@@ -1011,12 +1011,29 @@
     "link_clicks": 243,
     "cpc": 1.762,
     "ctr": 0.833,
-    "impressions": 29169,
+    "impressions": 29170,
     "cpm": 14.68,
     "primary_count": 0,
     "primary_cost": 0.0,
     "leads_count": 0,
     "leads_cost": 0.0,
+    "conversion_rate": 0.0
+  },
+  {
+    "week": "KW45",
+    "iso_year": 2026,
+    "date_start": "2026-11-02",
+    "date_stop": "2026-11-08",
+    "spend": 627.75,
+    "link_clicks": 422,
+    "cpc": 1.488,
+    "ctr": 1.287,
+    "impressions": 32782,
+    "cpm": 19.15,
+    "primary_count": 0,
+    "primary_cost": 0.0,
+    "leads_count": 22,
+    "leads_cost": 28.53,
     "conversion_rate": 0.0
   }
 ]
